@@ -10,6 +10,7 @@ import com.zhiyou100.video.service.AdminService;
 @Controller
 public class AdminController {
 
+	
 	@Autowired
 	AdminService as;
 	
